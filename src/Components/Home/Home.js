@@ -10,7 +10,7 @@ const Home = () => {
     return (
         <div>
         
-            <h2 className="title">Choose your destination</h2> 
+            <h2 className="title">Choose your destination spot</h2> 
             <div className="flex">
             {
                destination.map(place => <Destination 
