@@ -1,0 +1,25 @@
+
+h1{
+    margin-left: 90px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+.flex-maps{
+    display: flex;
+    margin-left: 30px;
+}
+
+
+img.rounded-corners{
+    border-radius: 5%;
+    border: 1px solid gray;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+
+

@@ -1,0 +1,121 @@
+body{
+    background-color: none;
+}
+.Form{
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 400px;
+    margin-top: 70px;
+    margin-left: 450px;
+    height: 360px;
+    background-color: white;
+}
+
+.form-input{
+    width: 300px;
+    height: 30px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+}
+
+h3{
+    margin-top: 20px;
+    margin-left:45px ;
+    font-family: sans-serif;
+}
+
+.submit{
+    width: 310px ;
+    height: 35px;
+    margin-left: 43px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: orange;
+    border: none;
+    font-weight: 700;
+}
+
+span{
+    
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.last-button{
+    padding: 0;
+    border: none;
+    text-decoration: underline;
+    text-decoration-color: orange ;
+    margin-left: 10px;
+    background-color: white;
+}
+
+.span-or{
+    margin-left:455px ;
+    color: gray;
+    padding-right: 30px;
+}
+.google-button{
+    margin-top: 25px;
+    margin-left: 500px;
+    border: 1px solid gray;
+    border-radius: 40px;
+    width: 300px;
+    background-color: white;
+}
+.fb-button{
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-bottom: 30px;
+    border: 1px solid gray;
+    border-radius: 40px;
+    width: 300px;
+    background-color: white;
+}
+
+.img-position{
+    position: relative;
+    right: 30px;
+    top: 4px;
+}
+
+.img2-position{
+    position: relative;
+    right: 23px;
+    top: 4px;
+}
+
+.text-position{
+    font-size: 20px;
+    position: relative;
+    bottom: 9px ;
+}
+.text2-position{
+    font-size: 20px;
+    position: relative;
+    bottom: 9px ;
+}
+
+.hori-line{
+    display: inline-block;
+    width: 180px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

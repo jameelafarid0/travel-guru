@@ -1,0 +1,29 @@
+.flex-photo{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+.image-width{
+    width: 250px;
+}
+
+.hotel-detail{
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 440px;
+    
+}
+
+p{
+    color: gray;
+    font-size: 16px;
+
+}
+
+.h3{
+    margin:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}

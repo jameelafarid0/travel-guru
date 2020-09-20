@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+.flex{
+    display: flex;
+    /* margin-left: 140px;
+    margin-top: 20px; */
+    justify-content: space-evenly;
+}
+
+
+.title{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+}
