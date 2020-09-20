@@ -7,8 +7,8 @@ import './DestinationDetail.css';
 
 const DestinationDetial = () => {
     const {destinationKey} = useParams();
-    const {state1}= useContext(TravelContext);
-    const [destination, setDestination] = state1;
+    const {destineState}= useContext(TravelContext);
+    const [destination, setDestination] = destineState;
     const places = destination.find(place => place.key.toString() === destinationKey);
     
 

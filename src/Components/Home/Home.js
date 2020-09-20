@@ -5,8 +5,8 @@ import './Home.css'
 
 
 const Home = () => { 
-    const {state1}= useContext(TravelContext);
-    const [destination, setDestination] = state1;
+    const {destineState}= useContext(TravelContext);
+    const [destination, setDestination] = destineState;
     return (
         <div>
         
