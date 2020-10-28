@@ -16,7 +16,7 @@
 
 
 ### Technology used:
-- React JS
+- React js
 - Firebase
 - bootstrap
   
@@ -28,4 +28,4 @@
 - react-bootstrap
 - react-dom
 - react-router-dom
-- react-scripts
+- react-scripts 
