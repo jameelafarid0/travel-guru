@@ -22,7 +22,7 @@ function App() {
   const [destination, setDestination] = useState(info);
   const [loggedInUser, setLoggedInUser] = useState({});
   return (
-    <TravelContext.Provider className="background " value={{state1:[destination, setDestination], state2:[loggedInUser, setLoggedInUser]}}>
+    <TravelContext.Provider className="background " value={{destineState:[destination, setDestination], loggedUserState:[loggedInUser,setLoggedInUser]}}>
     <Router>
       
      <Header/>

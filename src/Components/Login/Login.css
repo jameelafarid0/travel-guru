@@ -1,13 +1,10 @@
-body{
-    background-color: none;
-}
-.Form{
+.sub-container{
     border: 1px solid gray;
     border-radius: 5px;
     width: 400px;
-    margin-top: 70px;
+    margin-top: 30px;
     margin-left: 450px;
-    height: 360px;
+    height: 390px;
     background-color: white;
 }
 
@@ -33,15 +30,15 @@ h3{
     height: 35px;
     margin-left: 43px;
     margin-top: 10px;
-    margin-bottom: 10px;
     background-color: orange;
     border: none;
     font-weight: 700;
+    cursor: pointer;
 }
 
 span{
     
-    margin-top: 15px;
+    margin-top: 10px;
     font-size: 14px;
 }
 
@@ -50,8 +47,10 @@ span{
     border: none;
     text-decoration: underline;
     text-decoration-color: orange ;
+    color: orange;
     margin-left: 10px;
     background-color: white;
+    cursor: pointer;
 }
 
 .span-or{
@@ -59,62 +58,36 @@ span{
     color: gray;
     padding-right: 30px;
 }
-.google-button{
+.social-button{
     margin-top: 25px;
     margin-left: 500px;
+    padding: 10px 15px;
     border: 1px solid gray;
     border-radius: 40px;
-    width: 300px;
+    width: 310px;
     background-color: white;
+    cursor: pointer;
+    outline: none;
+    
 }
-.fb-button{
-    margin-top: 10px;
-    margin-left: 500px;
-    margin-bottom: 30px;
-    border: 1px solid gray;
-    border-radius: 40px;
-    width: 300px;
-    background-color: white;
-}
-
-.img-position{
-    position: relative;
-    right: 30px;
-    top: 4px;
-}
-
-.img2-position{
-    position: relative;
-    right: 23px;
-    top: 4px;
-}
-
-.text-position{
-    font-size: 20px;
-    position: relative;
-    bottom: 9px ;
-}
-.text2-position{
-    font-size: 20px;
-    position: relative;
-    bottom: 9px ;
-}
-
 .hori-line{
     display: inline-block;
     width: 180px;
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
+#gg-btn{
+    margin-bottom: 30px;
+}
+.social-icon{
+    width: 12%;
+    position: relative;
+    right: 60px;
+    height: 30px;
+}
+.social-name{
+    position: relative;
+    bottom: 10px;
+}
 
 
 
